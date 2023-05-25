@@ -11,6 +11,7 @@ Caixa{position: relative;
 nav {position: absolute;
     top: 110px;
     right: 0;
+    justify-content: center;
 }
 nav li{display: inline;
         margin:0 0 0 015;}
